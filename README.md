@@ -17,7 +17,6 @@
 * **Validación:** *Hold-out* 80/20 y validación cruzada estratificada (5-fold)
 * **Control de fuga:** División de datos **antes** del ajuste y del escalado
 
-
 ---
 
 ## 🗂️ Archivos del repositorio (clave)
