@@ -17,7 +17,6 @@
 * **Validación:** *Hold-out* 80/20 y validación cruzada estratificada (5-fold)
 * **Control de fuga:** División de datos **antes** del ajuste y del escalado
 
-> La formulación de la pregunta y las visualizaciones están sintetizadas en la **presentación** del proyecto.
 
 ---
 
@@ -30,7 +29,6 @@
 * `docs/conclusiones/Conclusión del Proyecto de Análisis y Clasificación de Especies de Iris.docx` → **Documento de conclusiones** (lo subirá el autor; ver sección "Entregables").
 * `requirements.txt` → Dependencias mínimas para reproducibilidad.
 
-> Si cambia el nombre de algún archivo, **actualice** las rutas aquí y en el notebook.
 
 ---
 
@@ -62,7 +60,6 @@ Resumen del flujo implementado en `notebooks/1.ipynb`:
 10. **Figuras/tablas:** exportadas a `reports/figures/`.
 11. **Conclusiones y recomendaciones:** ver `docs/conclusiones/`.
 
-> La guía de EDA de la asignatura se tuvo en cuenta para estructurar el flujo, los gráficos requeridos y las salidas mínimas.
 
 ---
 
